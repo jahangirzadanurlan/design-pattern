@@ -1,2 +1,5 @@
-package factoryPattern;public interface Shape {
+package factoryPattern;
+
+public interface Shape {
+    void draw();
 }
